@@ -179,6 +179,11 @@ nav {
 .education-item .details {
     color: #95a5a6;
 }
+.education-item .coursework {
+    color: #bdc3c7;
+    font-size: 0.9em;
+    margin-top: 0.5rem;
+}
 
 /* --- Experience Section --- */
 .experience-item {

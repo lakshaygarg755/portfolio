@@ -778,6 +778,17 @@ nav {
 
     .contact-info {
         grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .contact-item {
+        padding: 1rem 1.25rem;
+        font-size: 0.9rem;
+        word-break: break-word;
+    }
+
+    .contact-container h2 {
+        font-size: 2rem;
     }
 
     .cta-group {
